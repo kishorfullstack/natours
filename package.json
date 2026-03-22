@@ -12,7 +12,7 @@
 		"css": "node-sass css/style.prefix.css css/style.css --output-style compressed",
 		"build": "npm-run-all scss css-p css"
 	},
-	"author": "Vatsal Singh",
+	"author": "Kishor Kumar",
 	"license": "ISC",
 	"devDependencies": {
 		"autoprefixer": "^10.3.5",
